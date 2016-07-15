@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ClassMapper/bin/Debug
+/ClassMapper/obj/Debug
+/ExpressionTrees/bin/Debug
+/ExpressionTrees/obj/Debug
+/Sample03/bin/Debug
+/Sample03/obj/Debug

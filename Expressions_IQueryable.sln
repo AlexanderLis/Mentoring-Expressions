@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTrees", "ExpressionTrees\ExpressionTrees.csproj", "{ED70BB72-991B-4F60-995B-A376E6C04FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMapper", "ClassMapper\ClassMapper.csproj", "{A9DFA805-271C-4BB0-BEA5-29371FFFDFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample03", "Sample03\Sample03.csproj", "{4B096486-7457-4911-8280-7BA7A2BB45A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED70BB72-991B-4F60-995B-A376E6C04FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED70BB72-991B-4F60-995B-A376E6C04FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED70BB72-991B-4F60-995B-A376E6C04FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED70BB72-991B-4F60-995B-A376E6C04FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DFA805-271C-4BB0-BEA5-29371FFFDFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DFA805-271C-4BB0-BEA5-29371FFFDFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DFA805-271C-4BB0-BEA5-29371FFFDFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DFA805-271C-4BB0-BEA5-29371FFFDFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B096486-7457-4911-8280-7BA7A2BB45A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B096486-7457-4911-8280-7BA7A2BB45A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B096486-7457-4911-8280-7BA7A2BB45A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B096486-7457-4911-8280-7BA7A2BB45A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
