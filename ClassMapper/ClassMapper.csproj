@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Bar.cs" />
+    <Compile Include="Entities\Foo.cs" />
+    <Compile Include="Mapper.cs" />
+    <Compile Include="MappingGenerator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
